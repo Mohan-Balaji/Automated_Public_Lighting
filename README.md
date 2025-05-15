@@ -1,5 +1,5 @@
 **Automated public lighting systems**
-**Dual Axis Solar Tracking System -https://youtu.be/GyG84TlI-rc**
+
 ***Objective of the Invention***
 
 The primary goal of the invention is to overcome the limitations associated with existing automated public lighting systems that rely on solar energy. These systems often face inefficiencies in energy capture and utilization due to the suboptimal positioning of solar panels.
@@ -9,6 +9,9 @@ The primary goal of the invention is to overcome the limitations associated with
 The invention addresses these challenges by incorporating a dual-axis solar tracking system into public lighting. This advanced system optimizes solar energy capture by dynamically adjusting the orientation of solar panels along both horizontal and vertical axes, allowing them to follow the sun's path throughout the day.
 
 ***Benefits of the Dual-Axis Tracking System***
+
+
+**Dual Axis Solar Tracking System -https://youtu.be/GyG84TlI-rc**
 
 By increasing energy absorption, the system ensures that there is sufficient power for reliable public lighting, even on cloudy days or in areas with lower levels of solar irradiance. Moreover, the dual-axis tracking system reduces energy wastage and lowers maintenance costs. This is achieved by enhancing the performance of the solar panels and minimizing the need for frequent adjustments or replacements.
 
